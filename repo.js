@@ -3,7 +3,8 @@
 	"id": "WilliamDavi",
 	"patches": {
 		"DoubleMix": "A th13 patch then can have the Original music with the Spirit world version (tip: this patch is a test)",
-		"Th18LilyWhiteSpriteFix": "Lily White card sprite with the th16 Lily White sprite"
+		"Th18LilyWhiteSpriteFix": "Lily White card sprite with the th16 Lily White sprite",
+		"HDBullets": "(Th13-18) Bullets made by Pickled Cow"
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/WilliamDavi/"
