@@ -3,7 +3,8 @@
 	"id": "WilliamDavi",
 	"patches": {
 		"DoubleMix": "A th13 patch then can have the Original music with the Spirit world version (tip: this patch is a test)",
-		"Th18LilyWhiteSpriteFix": "Lily White card sprite with the th16 Lily White sprite"
+		"Th18LilyWhiteSpriteFix": "Lily White card sprite with the th16 Lily White sprite",
+		"GFWPhantasm": "An Phantasm Stage for GLW"
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/WilliamDavi/"
